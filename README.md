@@ -1,4 +1,4 @@
-### Hi there 👋 Thanks for taking some time to look around! 
+### Hi there 👋 I'm John-David Noguera! Thanks for taking some time to look around! 
 
 
  🔭 I am John-David Noguera a junior web developer with a vested interests in machine learning, artificial intelligence, and natural language processing
