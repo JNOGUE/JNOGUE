@@ -3,10 +3,10 @@
 
  🔭 I am John-David Noguera a junior web developer with a vested interests in machine learning, artificial intelligence, and natural language processing
  
- 🌱 I’m currently learning python with hopes to eventually utilize it in a professional capacity...
+ 🌱 I’m currently learning python with hopes to eventually utilize it in a professional capacity and create machine learning based applciations!
  
- 💬 Ask me about anything related to ChatGPT, machine learning, and Algos/DS! If I don't know the answer to your question even better!
+ 💬 Ask me about anything related to ChatGPT, machine learning, and Algos/DS! 
  
- ⚡ Fun fact: I like to stay pretty active mentally and physically outside of programming so you can find me doing calisthenics in the wee hours of the morning, going for walks on my lunch break, and engaging in upkeeping my mandarin langauge skills.
+ ⚡ Fun fact: I like to stay pretty active mentally and physically outside of programming so you can find me doing calisthenics in the wee hours of the morning, going for walks on my lunch break, and engaging in upkeeping my mandarin langauge skills. I have also been told I am a phenomenol cook.
  
   📫 How to reach me: JNogueraD94@gmail.com 
