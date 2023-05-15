@@ -7,6 +7,6 @@
  
  💬 Ask me about anything related to ChatGPT, machine learning, and Algos/DS!
  
- 📫 How to reach me: JNogueraD94@gmail.com 
- 
  ⚡ Fun fact: I like to stay pretty active mentally and physically outside of programming so you can find me doing calisthenics in the wee hours of the morning, going for walks on my lunch break, and engaging in upkeeping my mandarin langauge skills.
+ 
+  📫 How to reach me: JNogueraD94@gmail.com 
