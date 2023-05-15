@@ -3,7 +3,7 @@
 
  🔭 I am John-David Noguera a junior web developer with a vested interests in machine learning, artificial intelligence, and natural language processing
  
- 🌱 I’m currently learning python with hopes to eventually utilize it in a professional capacity and create machine learning based applciations!
+ 🌱 I’m currently learning python with hopes to eventually utilize it in a professional capacity and create machine learning based applications!
  
  💬 Ask me about anything related to ChatGPT, machine learning, and Algos/DS! 
  
