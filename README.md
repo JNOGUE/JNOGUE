@@ -1,15 +1,21 @@
-### 🔐 Cybersecurity Enthusiast | Future Security Analyst | Lifelong Learner
-
+Full-Stack Web Developer | Problem Solver | Lifelong Learner
 Welcome to my GitHub!
-
-I’m an aspiring cybersecurity professional with a long-term goal of securing systems, protecting data, and staying ahead of evolving digital threats. My focus is on developing a strong foundation in security principles, ethical hacking, threat analysis, and defensive strategies, while building hands-on skills through real-world projects and continuous learning.
-
-🔎 **What you'll find here:**
-
-* 📁 Security-focused projects (e.g., malware analysis, basic SIEM setups, penetration testing labs)
-* 💻 Scripts and tools for automation, reconnaissance, and defense
-* 📚 Notes and study resources from my journey through cybersecurity certifications and training
-* 🧪 Experimental environments using platforms like TryHackMe, Hack The Box, and custom virtual labs
-
-I'm committed to growing in this field with integrity, curiosity, and a passion for learning. If you're a fellow learner, mentor, or professional in the space—let’s connect!
-
+I’m a full-stack web developer passionate about building modern, user-focused applications that solve real-world problems. My focus is on creating responsive, scalable, and accessible web experiences while continuously expanding my knowledge of front-end development, back-end architecture, databases, and cloud technologies.
+🔎 What you'll find here:
+📁 Full-stack web applications built with modern frameworks and technologies
+💻 Front-end projects focused on responsive design, user experience, and accessibility
+⚙️ Back-end services, APIs, authentication systems, and database integrations
+📚 Notes, coding challenges, and learning resources from my development journey
+🚀 Personal, academic, and collaborative projects showcasing problem-solving and technical growth
+Technologies I enjoy working with:
+JavaScript (ES6+)
+React
+Node.js
+Express.js
+HTML5 & CSS3
+MongoDB & SQL Databases
+Git & GitHub
+REST APIs
+Cloud & Deployment Platforms
+I'm committed to continuous learning, writing clean and maintainable code, and building applications that create meaningful experiences for users. Whether you're a fellow developer, recruiter, student, or tech enthusiast, feel free to explore my projects and connect with me.
+Let's build something great together! 🚀
