@@ -1,6 +1,6 @@
-Full-Stack Web Developer | Problem Solver | Lifelong Learner
+Aspiring Junior Cybersecurity Analyst | Problem Solver | Lifelong Learner
 Welcome to my GitHub!
-I’m a full-stack web developer passionate about building modern, user-focused applications that solve real-world problems. My focus is on creating responsive, scalable, and accessible web experiences while continuously expanding my knowledge of front-end development, back-end architecture, databases, and cloud technologies.
+I’m a customer support professional with a technical background and a growing focus on cybersecurity and security operations (self-studied). I’m passionate about helping users solve technical problems, investigating issues, and communicating complex information in a clear and approachable way. Ideally I would love a career path where I can focus on SOC operations, threat detection, incident response, networking, and security technologies while bringing a customer-first mindset to every interaction.
 🔎 What you'll find here:
 
 📁 Full-stack web applications built with modern frameworks and technologies
@@ -20,5 +20,5 @@ Git & GitHub
 REST APIs
 Cloud & Deployment Platforms
 
-I'm committed to continuous learning, writing clean and maintainable code, and building applications that create meaningful experiences for users. Whether you're a fellow developer, recruiter, student, or tech enthusiast, feel free to explore my projects and connect with me.
+Whether you're a fellow developer, recruiter, student, or tech enthusiast, feel free to explore my projects and connect with me.
 Let's build something great together! 🚀
